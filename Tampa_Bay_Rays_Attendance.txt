@@ -1,0 +1,22 @@
+Year	Tm	Lg	W	L	Finish	Playoffs	AttendanceYear	AttendGame	Rank	 Est. Payroll 	PPF	BPF	Stadium
+2018	Tampa Bay Rays	AL East	90	72	3		1154973	14259	15th of 15	 46,011,667 	97	97	Tropicana Field
+2017	Tampa Bay Rays	AL East	80	82	3		1253619	15477	15th of 15	 79,473,033 	96	96	Tropicana Field
+2016	Tampa Bay Rays	AL East	68	94	5		1286163	15879	15th of 15	 48,223,791 	95	95	Tropicana Field
+2015	Tampa Bay Rays	AL East	80	82	4		1287054	15322	15th of 15	 64,571,233 	97	96	Tropicana Field
+2014	Tampa Bay Rays	AL East	77	85	4		1446464	17858	14th of 15	 77,814,300 	97	97	Tropicana Field
+2013	Tampa Bay Rays	AL East	92	71	2	Lost LDS (3-1)	1510300	18646	15th of 15	 71,163,500 	96	97	Tropicana Field
+2012	Tampa Bay Rays	AL East	90	72	3		1559681	19255	14th of 14	 63,368,700 	94	95	Tropicana Field
+2011	Tampa Bay Rays	AL East	91	71	2	Lost LDS (3-1)	1529188	18879	13th of 14	 41,053,571 	92	93	Tropicana Field
+2010	Tampa Bay Rays	AL East	96	66	1	Lost LDS (3-2)	1864999	23025	9th of 14	 71,923,471 	94	95	Tropicana Field
+2009	Tampa Bay Rays	AL East	84	78	3		1874962	23148	11th of 14	 67,270,334 	97	98	Tropicana Field
+2008	Tampa Bay Rays	AL East	97	65	1	Lost WS (4-1)	1811986	22370	12th of 14	 44,970,597 	101	101	Ballpark at Disney's Wide World of Sports, Tropicana Field
+2007	Tampa Bay Devil Rays	AL East	66	96	5		1387603	17131	14th of 14	 24,623,500 	100	98	Ballpark at Disney's Wide World of Sports, Tropicana Field
+2006	Tampa Bay Devil Rays	AL East	61	101	5		1368950	16901	14th of 14	 34,917,967 	100	99	Tropicana Field
+2005	Tampa Bay Devil Rays	AL East	67	95	5		1141669	14095	14th of 14	 29,679,067 	100	98	Tropicana Field
+2004	Tampa Bay Devil Rays	AL East	70	91	4		1274911	15936	14th of 14	 29,856,667 	97	96	Tropicana Field, Tokyo Dome
+2003	Tampa Bay Devil Rays	AL East	63	99	5		1058695	13070	14th of 14	 19,630,000 	97	95	Tropicana Field
+2002	Tampa Bay Devil Rays	AL East	55	106	5		1065742	13157	14th of 14	 34,380,000 	99	97	Tropicana Field
+2001	Tampa Bay Devil Rays	AL East	62	100	5		1298365	16029	14th of 14	 56,980,000 	99	97	Tropicana Field
+2000	Tampa Bay Devil Rays	AL East	69	92	5		1449673	18121	13th of 14	 63,265,129 	100	98	Tropicana Field
+1999	Tampa Bay Devil Rays	AL East	69	93	5		1562827	19294	10th of 14	 38,870,000 	101	100	Tropicana Field
+1998	Tampa Bay Devil Rays	AL East	63	99	5		2506293	30942	7th of 14	 27,280,000 	102	101	Tropicana Field
